@@ -11,7 +11,7 @@ const Fund = () => {
       </Head>
       <h1 className="text-3xl font-bold mb-4">Fund the App</h1>
       <p className="text-lg mb-6">
-        Thank you for using our app, powered by ChatGPT's free API! Your support helps us
+        Thank you for using our app, powered by ChatGPT&apos;s free API! Your support helps us
         keep the app running and serving users like you. As a free user of the API, we
         have limited resources and can only generate a certain number of responses per
         month.
@@ -23,7 +23,6 @@ const Fund = () => {
         experience to all users.
       </p>
       <div className="w-96 mx-auto mb-8">
-        {/* Replace the `src` attribute with the path to your bank UPI QR code image */}
         <Image
           src="/QR-code.jpeg"
           alt="Bank UPI QR Code"
