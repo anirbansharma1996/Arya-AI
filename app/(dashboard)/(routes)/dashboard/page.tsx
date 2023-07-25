@@ -1,7 +1,7 @@
 "use client"
 import React from "react";
 
-import {Music,Code, MessageSquare,VideoIcon,ImageIcon ,ArrowRight} from "lucide-react";
+import {Music,Code,IndianRupee, MessageSquare,VideoIcon,ImageIcon ,ArrowRight} from "lucide-react";
 import { Card } from "@/components/ui/card";
 import { cn } from "@/lib/utils";
 import { useRouter } from "next/navigation";
@@ -21,26 +21,32 @@ const tools = [
     bgColor: "text-violet-500/10",
     href: "/image",
   },
-  {
-    label: "Video Generation",
-    icon: VideoIcon,
-    color: "text-orange-700",
-    bgColor: "text-violet-500/10",
-    href: "/video",
-  },
-  {
-    label: "Music Generation",
-    icon: Music,
-    color: "text-emerald-500",
-    bgColor: "text-violet-500/10",
-    href: "/music",
-  },
+  // {
+  //   label: "Video Generation",
+  //   icon: VideoIcon,
+  //   color: "text-orange-700",
+  //   bgColor: "text-violet-500/10",
+  //   href: "/video",
+  // },
+  // {
+  //   label: "Music Generation",
+  //   icon: Music,
+  //   color: "text-emerald-500",
+  //   bgColor: "text-violet-500/10",
+  //   href: "/music",
+  // },
   {
     label: "Code Generation",
     icon: Code,
     color: "text-green-700",
     bgColor: "text-violet-500/10",
     href: "/code",
+  },
+  {
+    label: "Fund Me",
+    icon: IndianRupee,
+    color: "text-yellow-500",
+    href: "/fund",
   },
 ];
 
