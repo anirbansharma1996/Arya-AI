@@ -90,6 +90,7 @@ const Sidebar = () => {
           ))}
         </div>
       </div>
+       <p className="text-center">{`made with ❤️ by <anirban/>`}</p>
     </div>
   );
 };

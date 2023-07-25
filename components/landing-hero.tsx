@@ -38,7 +38,7 @@ export const LandingHero = () => {
         </Link>
       </div>
       <div className="text-zinc-400 text-xs md:text-sm font-normal">
-        No credit card required.
+          {'made with ❤️ by <anirban/> on 2023'}        
       </div>
     </div>
   );
