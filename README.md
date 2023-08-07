@@ -36,9 +36,7 @@ Arya AI provides an intuitive interface for users to generate various content:
 
 ## Screenshots
 
-![Conversation Generation](screenshots/conversation.png)
-![Image Generation](screenshots/image.png)
-![Code Snippet Generation](screenshots/code.png)
+![Conversation Generation](https://image-links.vercel.app/Images/arya-ai2.jpg)
 
 ## Contributing
 
