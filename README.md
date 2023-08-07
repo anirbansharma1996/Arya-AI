@@ -38,17 +38,10 @@ Arya AI provides an intuitive interface for users to generate various content:
 
 ![Conversation Generation](https://image-links.vercel.app/Images/arya-ai2.jpg)
 
-## Contributing
-
-Contributions are welcome! Please fork the repository and create a pull request.
-
-## License
-
-This project is licensed under the MIT License.
 
 ## Contact
 
-For questions or feedback, please contact us at aryai.contact@example.com.
+For questions or feedback, please contact us at anirbansharma36@gmail.com
 
 Enjoy using Arya AI for generating conversations, images, and code snippets!
 
