@@ -1,5 +1,5 @@
 # Arya AI
-['Arya | AI]()
+['Arya | AI'](https://image-links.vercel.app/Images/arya-ai.jpg)
 Arya AI is an AI-powered application that can generate conversations, images, and code snippets. This project is built using TypeScript, Next.js, and Clerk for handling user authentication.
 
 ## Features
